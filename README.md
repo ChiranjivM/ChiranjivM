@@ -40,7 +40,7 @@ A computer vision project exploring real-time hand gesture recognition and inter
 
 I have built various websites, games, and applications while exploring different areas of software development.
 
-Only some of these projects are available on my GitHub, while others were completed as personal projects outside of my public repositories.
+Some of these projects are available on my GitHub, while others were completed as personal projects outside of my public repositories.
 
 ---
 
