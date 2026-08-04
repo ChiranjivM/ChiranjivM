@@ -1,4 +1,4 @@
-# Hi, I'm Chiranjiv
+# Chiranjiv Mahesha Divya
 
 I'm a Computer Science + Business Administration student at the University of Waterloo interested in technology, finance, and entrepreneurship.
 
