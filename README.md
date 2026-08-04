@@ -10,7 +10,7 @@ I enjoy building software projects across web development, game development, and
 
 ### Crypto Arbitrage Monitor
 
-🔗 [View Project](https://github.com/ChiranjivM/crypto-arbitrage-monitor)
+[View Project](https://github.com/ChiranjivM/crypto-arbitrage-monitor)
 
 A cryptocurrency market monitoring system built to explore exchange APIs, financial data, and statistical analysis.
 
