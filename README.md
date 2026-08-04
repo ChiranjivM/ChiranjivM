@@ -49,8 +49,9 @@ Some of these projects are available on my GitHub, while others were completed a
 ## Interests
 
 - Software engineering
-- Financial technology
+- Quantitative finance & financial technology
 - Entrepreneurship
+- Computer vision
 - Game development
 - Data-driven applications
 - Building useful tools
