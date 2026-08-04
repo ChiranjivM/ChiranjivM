@@ -27,7 +27,7 @@ A real-time cryptocurrency market monitoring system built to explore exchange AP
 
 ---
 
-### Web & Game Development
+### Web & Game Development Projects
 
 I have built various websites, games, and applications while exploring different areas of software development.
 
