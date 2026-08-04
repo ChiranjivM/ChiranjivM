@@ -54,22 +54,19 @@ A few of my projects are available here on my GitHub.
 
 ---
 
-## Technologies
+## Tech Stack
 
-**Languages**
-- Python
-- Java
-- JavaScript
-- C#
-- C++
+### Languages
+Python • Java • JavaScript • C++ • C#
 
-**Frameworks & Tools**
-- React
-- Unity
-- Firebase
-- Streamlit
-- Git
-- GitHub
+### Web Development
+React • HTML/CSS • Firebase
+
+### Game Development
+Unity
+
+### Data & Tools
+CCXT • Streamlit • Git • GitHub
 
 ---
 
