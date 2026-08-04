@@ -25,6 +25,8 @@ A cryptocurrency market monitoring system built to explore exchange APIs, financ
 
 ### Gesture Recognition AI *(Work in Progress)*
 
+[View Project](https://github.com/ChiranjivM/gesture-ai)
+
 A computer vision project exploring real-time hand gesture recognition and interactive visual effects using webcam input.
 
 **Features:**
